@@ -17,7 +17,11 @@ Contact: max-725@hotmail.com
 
 License: GNU GENERAL PUBLIC LICENSE
 
-##Commands
+## Gameplay video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hpb3YSFdMNk" frameborder="0" allowfullscreen></iframe> You can watch it directly on [youtube](https://www.youtube.com/watch?v=hpb3YSFdMNk).
+
+## Commands
 
 The game is singleplayer only, the game controls are as follows:
 
