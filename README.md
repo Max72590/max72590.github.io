@@ -40,6 +40,6 @@ and you will be redirected into the map selection menu.
 
 ## Acknowledgements
 
-* [http://www.extentofthejam.com/pseudo/]
+* [https://www.youtube.com/watch?v=N60lBZDEwJ8&list=PLB_ibvUSN7mzUffhiay5g5GUHyJRO4DYr&index=8]
 * [https://codeincomplete.com/posts/javascript-racer/]
 * Super Hang On (MegaDrive)
