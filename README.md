@@ -55,8 +55,8 @@ and you will be redirected into the map selection menu.
 
 ## Acknowledgements
 
-* [http://www.extentofthejam.com/pseudo/]
+* [http://www.extentofthejam.com/pseudo/](http://www.extentofthejam.com/pseudo/)
 
-* [https://codeincomplete.com/posts/javascript-racer/]
+* [https://codeincomplete.com/posts/javascript-racer/](https://codeincomplete.com/posts/javascript-racer/)
 
 * Super Hang On (MegaDrive)
