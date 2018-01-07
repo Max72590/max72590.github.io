@@ -9,12 +9,11 @@ This is project is a game tribtue to the classic arcade and console game
 "Super Hang On". All assets and sounds used have been ripped manually and
 from public sources. 
 
-Full project at github: [https://github.com/Max72590/SuperHangOn] (https://github.com/Max72590/SuperHangOn)
+Full project at github: [https://github.com/Max72590/SuperHangOn](https://github.com/Max72590/SuperHangOn)
 
-Project webpage: [https://max72590.github.io/] (https://max72590.github.io/)
+Project webpage: [https://max72590.github.io/](https://max72590.github.io/)
 
-Latest release (1.0): [https://github.com/Max72590/SuperHangOn/releases/tag/1.0] 
-(https://github.com/Max72590/SuperHangOn/releases/tag/1.0)
+Latest release (1.0): [https://github.com/Max72590/SuperHangOn/releases/tag/1.0](https://github.com/Max72590/SuperHangOn/releases/tag/1.0)
 
 Author: Maximino Puncernau
 
